@@ -1,0 +1,4 @@
+
+class longestcommonprefix:
+    LIST = [str]
+
